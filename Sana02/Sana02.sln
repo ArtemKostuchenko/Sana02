@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointsAverage", "PointsAver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchValues", "SwitchValues\SwitchValues.csproj", "{854EA466-D9E4-4B36-B435-4A104535A1F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While1", "While1\While1.csproj", "{709BDEDF-FF7B-460F-8402-75AB01F24A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionsLibrary", "ExpressionsLibrary\ExpressionsLibrary.csproj", "{BFA25937-56D1-4FE2-98DB-8D6AAAFE0EAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{854EA466-D9E4-4B36-B435-4A104535A1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{854EA466-D9E4-4B36-B435-4A104535A1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{854EA466-D9E4-4B36-B435-4A104535A1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{709BDEDF-FF7B-460F-8402-75AB01F24A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709BDEDF-FF7B-460F-8402-75AB01F24A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709BDEDF-FF7B-460F-8402-75AB01F24A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709BDEDF-FF7B-460F-8402-75AB01F24A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA25937-56D1-4FE2-98DB-8D6AAAFE0EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA25937-56D1-4FE2-98DB-8D6AAAFE0EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA25937-56D1-4FE2-98DB-8D6AAAFE0EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA25937-56D1-4FE2-98DB-8D6AAAFE0EAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
