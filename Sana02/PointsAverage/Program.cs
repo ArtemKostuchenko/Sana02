@@ -26,7 +26,7 @@ while(index < numPoints)
     index++;
 }
 
-double avg = sumPoints / numPoints;
+double avg = (double)sumPoints / numPoints;
 
 if (avg >= 50)
 {
